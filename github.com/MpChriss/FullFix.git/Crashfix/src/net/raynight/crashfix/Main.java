@@ -22,7 +22,7 @@ public class Main extends JavaPlugin implements Listener, CommandExecutor {
 	
 	@Override
 	public void onEnable() {
-
+		
 		instance = this;
 		packetListener = new PacketListener();
 		
