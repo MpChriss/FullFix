@@ -1,0 +1,8 @@
+name: FullFixAC
+version: 2.1
+author: RayNightStudios
+main: net.raynight.crashfix.Main
+
+commands:
+  fullfix:
+    aliases: [ac, ff, anticrash, crashfix]
